@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Connexion - eBanque Or Mulhouse</title>
+    <title>Solde du Compte - eBanque Or Mulhouse</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
-    <h1>Connexion à votre espace client</h1>
+    <h1>Solde du Compte</h1>
 </header>
 
 <nav>
@@ -18,10 +18,10 @@
 </nav>
 
 <div class="container">
-    <h2>Entrez vos identifiants</h2>
-    <input type="text" id="compte" placeholder="Numéro de compte"><br><br>
-    <input type="password" id="mdp" placeholder="Mot de passe"><br><br>
-    <button class="button" onclick="window.location.href='solde.html'">Connexion</button>
+    <h2>Détails du compte</h2>
+    <p><strong>Bénéficiaire :</strong> M. MICHEL SCHLAEPFER</p>
+    <p><strong>Numéro de compte :</strong> 54792001</p>
+    <p><strong>Solde disponible :</strong> 27 600 €</p>
 </div>
 
 </body>
