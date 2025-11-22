@@ -85,4 +85,9 @@ footer h3 {
     height: 50px;
     margin: 0 15px;
     vertical-align: middle;
+}/* Pour les écrans mobiles */
+@media screen and (max-width: 768px) {
+    .container { width: 95%; margin: 20px auto; }
+    nav a { display: block; margin: 10px 0; }
+    .partner-logo { height: 40px; margin: 5px; }
 }
