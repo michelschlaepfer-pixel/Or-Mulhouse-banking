@@ -90,4 +90,4 @@ footer h3 {
     .container { width: 95%; margin: 20px auto; }
     nav a { display: block; margin: 10px 0; }
     .partner-logo { height: 40px; margin: 5px; }
-}
+}.partner-logo { height: auto; max-height: 50px; margin: 0 10px; }
