@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Solde du Compte - eBanque Or Mulhouse</title>
+    <title>Or & Diamants - eBanque Or Mulhouse</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
-    <h1>Solde du Compte</h1>
+    <img src="images/logo.png" alt="Logo eBanque Or Mulhouse" style="height:60px;"><br>
+    <h1>Achat & Vente d'Or et Diamants</h1>
 </header>
 
 <nav>
@@ -18,10 +19,8 @@
 </nav>
 
 <div class="container">
-    <h2>Détails du compte</h2>
-    <p><strong>Bénéficiaire :</strong> M. MICHEL SCHLAEPFER</p>
-    <p><strong>Numéro de compte :</strong> 54792001</p>
-    <p><strong>Solde disponible :</strong> 27 600 €</p>
+    <h2>Investissez dans les métaux précieux</h2>
+    <p>Nous achetons et revendons de l'or et des diamants avec sécurité et transparence.</p>
 </div>
 
 </body>
